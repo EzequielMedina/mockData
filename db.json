@@ -8,7 +8,8 @@
       "autor": "Gabriela Sánchez",
       "categoria": "Ciencia Ficción",
       "anioPublicacion": "01/01/2023",
-      "rutaImg":"../../../assets/img/secreto_de_las_estrellas.jpg"
+      "rutaImg":"../../../assets/img/secreto_de_las_estrellas.jpg",
+      "mostrarLibro": true
     },
     {
       "id": "L2-2015",
@@ -17,7 +18,8 @@
       "autor": "Alejandro Martínez",
       "categoria": "Thriller",
       "anioPublicacion": "01/01/2015",
-      "rutaImg": "../../../assets/img/susurro de las sompras.jpg"
+      "rutaImg": "../../../assets/img/susurro de las sompras.jpg",
+      "mostrarLibro": true
     },
     {
       "id": "L3-2008",
@@ -26,7 +28,8 @@
       "autor": "Isabel Gutiérrez",
       "categoria": "Fantasía",
       "anioPublicacion": "01/01/2008",
-      "rutaImg": "../../../assets/img/Los Hilos del Destino.jpg"
+      "rutaImg": "../../../assets/img/Los Hilos del Destino.jpg",
+      "mostrarLibro": true
     },
     {
       "id": "L4-1999",
@@ -35,7 +38,8 @@
       "autor": "Luisa Ramírez",
       "categoria": "Drama",
       "anioPublicacion": "01/01/1999",
-      "rutaImg": "../../../assets/img/Caminos Cruzados.jpg"
+      "rutaImg": "../../../assets/img/Caminos Cruzados.jpg",
+      "mostrarLibro": true
     },
     {
       "id": "L5-2010",
@@ -44,7 +48,8 @@
       "autor": "Rodrigo Pérez",
       "categoria": "Suspense",
       "anioPublicacion": "01/01/2010",
-      "rutaImg": "../../../assets/img/El Último Aliento.jpg"
+      "rutaImg": "../../../assets/img/El Último Aliento.jpg",
+      "mostrarLibro": true
     },
     {
       "id": "L6-2021",
@@ -53,7 +58,8 @@
       "autor": "Martina Ortega",
       "categoria": "Aventuras",
       "anioPublicacion": "01/01/2021",
-      "rutaImg": "../../../assets/img/El Legado Olvidado.jpg"
+      "rutaImg": "../../../assets/img/El Legado Olvidado.jpg",
+      "mostrarLibro": true
     },
     {
       "id": "L7-2005",
@@ -62,7 +68,8 @@
       "autor": "Sebastián Fernández",
       "categoria": "Romance histórico",
       "anioPublicacion": "01/01/2005",
-      "rutaImg": "../../../assets/img/Rumores de Medianoche.jpg"
+      "rutaImg": "../../../assets/img/Rumores de Medianoche.jpg",
+      "mostrarLibro": true
     },
     {
       "id": "L8-2018",
@@ -71,7 +78,8 @@
       "autor": "Valeria Cruz",
       "categoria": "Tecnología y suspense",
       "anioPublicacion": "01/01/2018",
-      "rutaImg": "../../../assets/img/El Enigma Codificado.jpg"
+      "rutaImg": "../../../assets/img/El Enigma Codificado.jpg",
+      "mostrarLibro": true
     },
     {
       "id": "L9-2012",
@@ -80,7 +88,8 @@
       "autor": "Daniel Mendoza",
       "categoria": "Novela negra",
       "anioPublicacion": "01/01/2012",
-      "rutaImg": "../../../assets/img/Sombras en la Ciudad.jpg"
+      "rutaImg": "../../../assets/img/Sombras en la Ciudad.jpg",
+      "mostrarLibro": true
     },
     {
       "id": "L10-2002",
@@ -89,7 +98,8 @@
       "autor": "Carolina Vargas",
       "categoria": "Viajes en el tiempo",
       "anioPublicacion": "01/01/2002",
-      "rutaImg": "../../../assets/img/El Eco de los Tiempos.jpg"
+      "rutaImg": "../../../assets/img/El Eco de los Tiempos.jpg",
+      "mostrarLibro": true
     }
   ],
   "status":"OK"
