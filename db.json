@@ -1,5 +1,6 @@
 {
-  "dataBook": [
+  "dataBook": {
+    "data":[
     {
       "ID": "L1-2023",
       "Nombre": "El Secreto de las Estrellas",
@@ -80,6 +81,7 @@
       "Categoría": "Viajes en el tiempo",
       "Año de Publicación": "01/01/2002"
     }
-  ]
+  ],
+  "status":"OK"
   
-}
+}}
