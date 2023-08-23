@@ -7,7 +7,8 @@
       "descripcion": "Una novela de ciencia ficción que sigue las aventuras de un grupo de exploradores espaciales mientras descubren un misterio cósmico.",
       "autor": "Gabriela Sánchez",
       "categoria": "Ciencia Ficción",
-      "anioPublicacion": "01/01/2023"
+      "anioPublicacion": "01/01/2023",
+      "rutaImg":"../../../assets/img/secreto_de_las_estrellas.jpg"
     },
     {
       "id": "L2-2015",
@@ -15,7 +16,8 @@
       "descripcion": "Un thriller psicológico que explora los límites entre la realidad y la imaginación en el caso de un paciente con recuerdos perturbadores.",
       "autor": "Alejandro Martínez",
       "categoria": "Thriller",
-      "anioPublicacion": "01/01/2015"
+      "anioPublicacion": "01/01/2015",
+      "rutaImg": "../../../assets/img/susurro de las sompras.jpg"
     },
     {
       "id": "L3-2008",
@@ -23,7 +25,8 @@
       "descripcion": "Una épica historia de fantasía que sigue a un joven héroe en su búsqueda para salvar su reino de una oscura amenaza.",
       "autor": "Isabel Gutiérrez",
       "categoria": "Fantasía",
-      "anioPublicacion": "01/01/2008"
+      "anioPublicacion": "01/01/2008",
+      "rutaImg": "../../../assets/img/Los Hilos del Destino.jpg.jpg"
     },
     {
       "id": "L4-1999",
@@ -31,7 +34,8 @@
       "descripcion": "Una emotiva novela que entrelaza las vidas de varios personajes, explorando cómo sus destinos se conectan de maneras inesperadas.",
       "autor": "Luisa Ramírez",
       "categoria": "Drama",
-      "anioPublicacion": "01/01/1999"
+      "anioPublicacion": "01/01/1999",
+      "rutaImg": "../../../assets/img/Caminos Cruzados.jpg"
     },
     {
       "id": "L5-2010",
@@ -39,7 +43,8 @@
       "descripcion": "Un libro de suspense que sigue a un detective mientras persigue a un asesino en serie obsesionado con la poesía macabra.",
       "autor": "Rodrigo Pérez",
       "categoria": "Suspense",
-      "anioPublicacion": "01/01/2010"
+      "anioPublicacion": "01/01/2010",
+      "rutaImg": "../../../assets/img/El Último Aliento.jpg"
     },
     {
       "id": "L6-2021",
@@ -47,7 +52,8 @@
       "descripcion": "Una novela de aventuras que lleva a los lectores en un emocionante viaje arqueológico en busca de una reliquia perdida.",
       "autor": "Martina Ortega",
       "categoria": "Aventuras",
-      "anioPublicacion": "01/01/2021"
+      "anioPublicacion": "01/01/2021",
+      "rutaImg": "../../../assets/img/El Legado Olvidado.jpg"
     },
     {
       "id": "L7-2005",
@@ -55,7 +61,8 @@
       "descripcion": "Un romance ambientado en la década de 1920 que sigue el tórrido amor entre una joven heredera y un misterioso pianista de jazz.",
       "autor": "Sebastián Fernández",
       "categoria": "Romance histórico",
-      "anioPublicacion": "01/01/2005"
+      "anioPublicacion": "01/01/2005",
+      "rutaImg": "../../../assets/img/Rumores de Medianoche.jpg"
     },
     {
       "id": "L8-2018",
@@ -63,7 +70,8 @@
       "descripcion": "Un thriller tecnológico que sigue a un grupo de hackers mientras intentan descifrar un misterioso código que revela secretos gubernamentales.",
       "autor": "Valeria Cruz",
       "categoria": "Tecnología y suspense",
-      "anioPublicacion": "01/01/2018"
+      "anioPublicacion": "01/01/2018",
+      "rutaImg": "../../../assets/img/El Enigma Codificado.jpg"
     },
     {
       "id": "L9-2012",
@@ -71,7 +79,8 @@
       "descripcion": "Un noir contemporáneo que sigue a un detective privado en busca de respuestas sobre la desaparición de un magnate.",
       "autor": "Daniel Mendoza",
       "categoria": "Novela negra",
-      "anioPublicacion": "01/01/2012"
+      "anioPublicacion": "01/01/2012",
+      "rutaImg": "../../../assets/img/Sombras en la Ciudad.jpg"
     },
     {
       "id": "L10-2002",
@@ -79,7 +88,8 @@
       "descripcion": "Una novela de viajes en el tiempo que lleva a un protagonista accidental a diferentes épocas históricas, enfrentando desafíos para preservar la línea temporal.",
       "autor": "Carolina Vargas",
       "categoria": "Viajes en el tiempo",
-      "anioPublicacion": "01/01/2002"
+      "anioPublicacion": "01/01/2002",
+      "rutaImg": "../../../assets/img/El Eco de los Tiempos.jpg"
     }
   ],
   "status":"OK"
