@@ -1,84 +1,85 @@
 {
   "dataBook": [
     {
-      "Nombre": "Nombre 1",
-      "Descripcion": "Descripcion 1",
-      "AnioPublicacion": "AnioPublicacion 1",
-      "Categoria": "Categoria 1",
-      "Autor": "Autor 1",
-      "id": "1"
+      "ID": "L1-2023",
+      "Nombre": "El Secreto de las Estrellas",
+      "Descripción": "Una novela de ciencia ficción que sigue las aventuras de un grupo de exploradores espaciales mientras descubren un misterio cósmico.",
+      "Autor": "Gabriela Sánchez",
+      "Categoría": "Ciencia Ficción",
+      "Año de Publicación": "01/01/2023"
     },
     {
-      "Nombre": "Nombre 2",
-      "Descripcion": "Descripcion 2",
-      "AnioPublicacion": "AnioPublicacion 2",
-      "Categoria": "Categoria 2",
-      "Autor": "Autor 2",
-      "id": "2"
+      "ID": "L2-2015",
+      "Nombre": "El Susurro de las Sombras",
+      "Descripción": "Un thriller psicológico que explora los límites entre la realidad y la imaginación en el caso de un paciente con recuerdos perturbadores.",
+      "Autor": "Alejandro Martínez",
+      "Categoría": "Thriller",
+      "Año de Publicación": "01/01/2015"
     },
     {
-      "Nombre": "Nombre 3",
-      "Descripcion": "Descripcion 3",
-      "AnioPublicacion": "AnioPublicacion 3",
-      "Categoria": "Categoria 3",
-      "Autor": "Autor 3",
-      "id": "3"
+      "ID": "L3-2008",
+      "Nombre": "Los Hilos del Destino",
+      "Descripción": "Una épica historia de fantasía que sigue a un joven héroe en su búsqueda para salvar su reino de una oscura amenaza.",
+      "Autor": "Isabel Gutiérrez",
+      "Categoría": "Fantasía",
+      "Año de Publicación": "01/01/2008"
     },
     {
-      "Nombre": "Nombre 4",
-      "Descripcion": "Descripcion 4",
-      "AnioPublicacion": "AnioPublicacion 4",
-      "Categoria": "Categoria 4",
-      "Autor": "Autor 4",
-      "id": "4"
+      "ID": "L4-1999",
+      "Nombre": "Caminos Cruzados",
+      "Descripción": "Una emotiva novela que entrelaza las vidas de varios personajes, explorando cómo sus destinos se conectan de maneras inesperadas.",
+      "Autor": "Luisa Ramírez",
+      "Categoría": "Drama",
+      "Año de Publicación": "01/01/1999"
     },
     {
-      "Nombre": "Nombre 5",
-      "Descripcion": "Descripcion 5",
-      "AnioPublicacion": "AnioPublicacion 5",
-      "Categoria": "Categoria 5",
-      "Autor": "Autor 5",
-      "id": "5"
+      "ID": "L5-2010",
+      "Nombre": "El Último Aliento",
+      "Descripción": "Un libro de suspense que sigue a un detective mientras persigue a un asesino en serie obsesionado con la poesía macabra.",
+      "Autor": "Rodrigo Pérez",
+      "Categoría": "Suspense",
+      "Año de Publicación": "01/01/2010"
     },
     {
-      "Nombre": "Nombre 6",
-      "Descripcion": "Descripcion 6",
-      "AnioPublicacion": "AnioPublicacion 6",
-      "Categoria": "Categoria 6",
-      "Autor": "Autor 6",
-      "id": "6"
+      "ID": "L6-2021",
+      "Nombre": "El Legado Olvidado",
+      "Descripción": "Una novela de aventuras que lleva a los lectores en un emocionante viaje arqueológico en busca de una reliquia perdida.",
+      "Autor": "Martina Ortega",
+      "Categoría": "Aventuras",
+      "Año de Publicación": "01/01/2021"
     },
     {
-      "Nombre": "Nombre 7",
-      "Descripcion": "Descripcion 7",
-      "AnioPublicacion": "AnioPublicacion 7",
-      "Categoria": "Categoria 7",
-      "Autor": "Autor 7",
-      "id": "7"
+      "ID": "L7-2005",
+      "Nombre": "Rumores de Medianoche",
+      "Descripción": "Un romance ambientado en la década de 1920 que sigue el tórrido amor entre una joven heredera y un misterioso pianista de jazz.",
+      "Autor": "Sebastián Fernández",
+      "Categoría": "Romance histórico",
+      "Año de Publicación": "01/01/2005"
     },
     {
-      "Nombre": "Nombre 8",
-      "Descripcion": "Descripcion 8",
-      "AnioPublicacion": "AnioPublicacion 8",
-      "Categoria": "Categoria 8",
-      "Autor": "Autor 8",
-      "id": "8"
+      "ID": "L8-2018",
+      "Nombre": "El Enigma Codificado",
+      "Descripción": "Un thriller tecnológico que sigue a un grupo de hackers mientras intentan descifrar un misterioso código que revela secretos gubernamentales.",
+      "Autor": "Valeria Cruz",
+      "Categoría": "Tecnología y suspense",
+      "Año de Publicación": "01/01/2018"
     },
     {
-      "Nombre": "Nombre 9",
-      "Descripcion": "Descripcion 9",
-      "AnioPublicacion": "AnioPublicacion 9",
-      "Categoria": "Categoria 9",
-      "Autor": "Autor 9",
-      "id": "9"
+      "ID": "L9-2012",
+      "Nombre": "Sombras en la Ciudad",
+      "Descripción": "Un noir contemporáneo que sigue a un detective privado en busca de respuestas sobre la desaparición de un magnate.",
+      "Autor": "Daniel Mendoza",
+      "Categoría": "Novela negra",
+      "Año de Publicación": "01/01/2012"
     },
     {
-      "Nombre": "Nombre 10",
-      "Descripcion": "Descripcion 10",
-      "AnioPublicacion": "AnioPublicacion 10",
-      "Categoria": "Categoria 10",
-      "Autor": "Autor 10",
-      "id": "10"
+      "ID": "L10-2002",
+      "Nombre": "El Eco de los Tiempos",
+      "Descripción": "Una novela de viajes en el tiempo que lleva a un protagonista accidental a diferentes épocas históricas, enfrentando desafíos para preservar la línea temporal.",
+      "Autor": "Carolina Vargas",
+      "Categoría": "Viajes en el tiempo",
+      "Año de Publicación": "01/01/2002"
     }
   ]
+  
 }
